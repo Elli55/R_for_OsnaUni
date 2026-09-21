@@ -1,0 +1,3 @@
+[submodule "FromProfNicolas"]
+	path = FromProfNicolas
+	url = https://github.com/winf-hsos/data-analytics-code.git
